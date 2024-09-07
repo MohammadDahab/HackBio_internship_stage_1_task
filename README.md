@@ -5,6 +5,7 @@
 
 ## **Authors (@slack):** Malak Abdelfattah (@Malak), Nourhan Mahmoud (@NourhanM1),_ _Mohammed Dahab (@m\_dahab7) and Zeyad Ashraf (@Zashraf03)
 
+## **Introduction**
 Cancers of the respiratory system, especially lung cancer, are ranked third as per new cases and top with 75% mortality for the last 5 years figure at 2.2 million new cases. Its heterogeneity and complexity make it difficult and cause drug resistance, thus complicating treatment. The management of several instances of lung cancer over time facilitated the collection of information, which was composed of vast resources of various images and sequences aimed at treating lung cancer. However, to access these databases, we have to use Machine Learning (ML).
 
 ## **Early Detection and Diagnosis:**
