@@ -1,7 +1,7 @@
 # HackBio_stage_one_task  
-**Machine Learning for Lung Cancer Diagnosis, Treatment and Prognosis**
+## **Machine Learning for Lung Cancer Diagnosis, Treatment and Prognosis**
 
-** **
+
 
 ## **Authors (@slack):** Malak Abdelfattah (@Malak), Nourhan Mahmoud (@NourhanM1),_ _Mohammed Dahab (@m\_dahab7) and Zeyad Ashraf (@Zashraf03)
 
@@ -17,21 +17,21 @@ Clinical studies, imaging, and omics data collection are performed. Further, var
 
 ### **Popular applications include:**
 
-<!--[if !supportLists]-->1-     <!--[endif]-->Computer-aided diagnosis (CAD) - As computer programs for medical diagnosis have advanced, they have been successful in helping radiologists interpret complicated imaging data, increasing their accuracy and reducing false positives which is so helpful in cancer diagnosis and treatment.
+1. Computer-aided diagnosis (CAD) - As computer programs for medical diagnosis have advanced, they have been successful in helping radiologists interpret complicated imaging data, increasing their accuracy and reducing false positives which are so helpful in cancer diagnosis and treatment.
 
-<!--[if !supportLists]-->2-     <!--[endif]-->Liquid biopsy analysis – is a remedy through the analysis of blood biomarkers to provide early diagnoses and classification of lung cancer sub-types.
+2. Liquid biopsy analysis – is a remedy through the analysis of blood biomarkers to provide early diagnoses and classification of lung cancer sub-types.
 
-<!--[if !supportLists]-->3-     <!--[endif]-->Treatment personalization – determines the likely response to possible treatments of an individual based on their genetics and associated molecular composition, especially in improving the effectiveness of planned treatment, such as immunotherapy.
+3. Treatment personalization – determines the likely response to possible treatments of an individual based on their genetics and associated molecular composition, especially in improving the effectiveness of planned treatment, such as immunotherapy.
 
 ## **Challenges and Future Directions:**
 
-<!--[if !supportLists]-->1-     <!--[endif]-->Lack of well-annotated, easily accessible medical data with which to train models.
+1. Lack of well-annotated, easily accessible medical data with which to train models.
 
-<!--[if !supportLists]-->2-     <!--[endif]-->The relevance of model robustness and explainability to clinical adoption.
+2. The relevance of model robustness and explainability to clinical adoption.
 
-<!--[if !supportLists]-->3-     <!--[endif]-->Development of standardized performance metrics for ML models in lung cancer.
+3. Development of standardized performance metrics for ML models in lung cancer.
 
-<!--[if !supportLists]-->4-     <!--[endif]-->There is a high need to develop appropriate integration and batch removal techniques.
+4. There is a high need to develop appropriate integration and batch removal techniques.
 
 ## **Conclusion:**
 
